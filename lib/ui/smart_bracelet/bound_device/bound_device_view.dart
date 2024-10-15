@@ -277,17 +277,7 @@ class BoundDevicePageState extends BaseState<BoundDevicePage>
                                                   height: 14,
                                                 ),
                                                 onPressed: () {
-                                                  connectDevice(
-                                                      IDOBluetoothDeviceModel(
-                                                        name: logic.boundDevice[
-                                                            'name'],
-                                                        uuid: logic.boundDevice[
-                                                            'uuid'],
-                                                        macAddress:
-                                                            logic.boundDevice[
-                                                                'macAddress'],
-                                                      ),
-                                                      isShowLoading: true);
+                                                  exportLog();
                                                 },
                                               ),
                                               W(14),
@@ -308,10 +298,9 @@ class BoundDevicePageState extends BaseState<BoundDevicePage>
                                                   height: 11.5,
                                                 ),
                                                 onPressed: () {
-                                                  // if (isBinded) {
-                                                  //   logic.executeGetCmd();
-                                                  // }
-                                                  exportLog();
+                                                  if (isBinded) {
+                                                    logic.executeGetCmd();
+                                                  }
                                                 },
                                               ),
                                             ],
@@ -328,7 +317,7 @@ class BoundDevicePageState extends BaseState<BoundDevicePage>
                                           color: const Color(0xff34D399),
                                         ),
                                         onTap: () {
-                                          debugPrint('0----isBinded:$isBinded');
+                                          debugPrint('isBinded:$isBinded');
                                           if (!isBinded) {
                                             connectDevice(
                                                 IDOBluetoothDeviceModel(
