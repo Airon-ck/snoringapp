@@ -1,0 +1,3 @@
+/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/w6k68245/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/w6k68245/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/w6k68245/arm64-v8a/CMakeFiles/protocol_ffi.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/w6k68245/arm64-v8a",
+  "command": "/Users/hc/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/hc/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hc/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dprotocol_ffi_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -std=c++14 -DSPDLOG_FMT_PRINTF -DPLATFORM_TYPE=1 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/protocol_ffi.dir/src/main/cpp/native-lib.cpp.o -c /Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/src/main/cpp/native-lib.cpp",
+  "file": "/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/src/main/cpp/native-lib.cpp"
+}
+]

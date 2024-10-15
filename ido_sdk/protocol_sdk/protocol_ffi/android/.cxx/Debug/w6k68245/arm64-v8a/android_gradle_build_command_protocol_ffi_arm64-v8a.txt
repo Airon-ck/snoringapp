@@ -1,0 +1,7 @@
+Executable : /Users/hc/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/w6k68245/arm64-v8a
+protocol_ffi
+jvmArgs : 
+

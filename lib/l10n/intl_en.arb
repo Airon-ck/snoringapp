@@ -1,0 +1,38 @@
+{
+  "appName": "安睡有氧",
+  "skip": "skip",
+  "exit_app": "Click again to exit APP",
+
+  "send_code": "get verification code",
+  "resend_code": "resend ({second}s)",
+
+  "canLoadingText": "Release to load more",
+  "canRefreshText": "Release to refresh",
+  "canTwoLevelText": "Release to enter secondfloor",
+  "idleLoadingText": "Pull up Load more",
+  "idleRefreshText": "Pull down Refresh",
+  "loadFailedText": "Load Failed",
+  "loadingText": "Loading…",
+  "noMoreText": "No more data",
+  "refreshCompleteText": "Refresh completed",
+  "refreshFailedText": "Refresh failed",
+  "refreshingText": "Refreshing…",
+  "try_again": "Please try again",
+
+  "saved_to_album": "Saved to album!",
+  "save_failure": "Save failure!",
+  "save_successfully": "Save successfully",
+  "denied_permission_desc": "You denied the permission, causing the function to be unavailable！",
+  "copied": "Copied！",
+
+  "network_unavailable": "Network unavailable!",
+  "start_downloading": "Start downloading",
+  "go_update": "Deupdate",
+  "not_updated_temporarily": "Not updated temporarily",
+  "downloading": "Downloading",
+  "download_completed": "Download completed",
+  "input_content_cannot_be_empty": "The input content cannot be empty！",
+  "no_data": "NO DATA",
+  "server_processing": "Server processing",
+  "server_error": "The server is busy, please try again later"
+}

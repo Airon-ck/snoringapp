@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/chenkang/IdeaProjects/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v4h1pc1/arm64-v8a'
+ninja: no work to do.

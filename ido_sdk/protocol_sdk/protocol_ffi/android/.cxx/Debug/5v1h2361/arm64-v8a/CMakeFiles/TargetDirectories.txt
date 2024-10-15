@@ -1,0 +1,3 @@
+/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v1h2361/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v1h2361/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v1h2361/arm64-v8a/CMakeFiles/protocol_ffi.dir

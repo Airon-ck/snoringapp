@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/chenkang/Desktop/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/34287012/arm64-v8a'
+[1/1] Linking CXX shared library /Users/chenkang/Desktop/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/34287012/obj/arm64-v8a/libprotocol_ffi.so

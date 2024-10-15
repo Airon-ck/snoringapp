@@ -1,0 +1,3 @@
+# ninja log v5
+0	91	1728962345	CMakeFiles/protocol_ffi.dir/src/main/cpp/native-lib.cpp.o	781efebd2fdde538
+91	186	1728962345	/Users/chenkang/IdeaProjects/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/5v4h1pc1/obj/arm64-v8a/libprotocol_ffi.so	fa4fcd9d0e2284e8

@@ -1,0 +1,25 @@
+                    Executable : /Users/chenkang/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-16
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/Users/chenkang/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/chenkang/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/Users/chenkang/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/chenkang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_C_FLAGS=-DPLATFORM_TYPE=1
+-DCMAKE_CXX_FLAGS=-fexceptions -std=c++14 -DSPDLOG_FMT_PRINTF -DPLATFORM_TYPE=1
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/chenkang/Downloads/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/5v1h2361/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/chenkang/Downloads/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/5v1h2361/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v1h2361/arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

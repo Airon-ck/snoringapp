@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../../ido_sdk/protocol_sdk/protocol_ffi/android" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../ido_sdk/protocol_sdk/protocol_ffi/android/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../ido_sdk/protocol_sdk/protocol_ffi/android/.externalNativeBuild" />
+    </content>
+  </component>
+</module>

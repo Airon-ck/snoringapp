@@ -1,0 +1,7 @@
+Executable : /Users/chenkang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v1h2361/armeabi-v7a
+protocol_ffi
+jvmArgs : 
+

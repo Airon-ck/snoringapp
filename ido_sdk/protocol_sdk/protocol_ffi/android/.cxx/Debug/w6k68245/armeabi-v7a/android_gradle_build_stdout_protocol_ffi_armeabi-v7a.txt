@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/hc/Desktop/export_ido_sdk/ido_sdk_flutter/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/w6k68245/armeabi-v7a'
+ninja: no work to do.

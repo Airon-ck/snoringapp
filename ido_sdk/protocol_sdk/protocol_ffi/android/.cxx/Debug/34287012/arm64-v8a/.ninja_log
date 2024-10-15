@@ -1,0 +1,6 @@
+# ninja log v5
+0	83	1728972131	CMakeFiles/protocol_ffi.dir/src/main/cpp/native-lib.cpp.o	781efebd2fdde538
+83	163	1728972132	/Users/chenkang/Desktop/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/34287012/obj/arm64-v8a/libprotocol_ffi.so	865f6a599775d5c0
+0	278	1728972744	/Users/chenkang/Desktop/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/34287012/obj/arm64-v8a/libprotocol_ffi.so	865f6a599775d5c0
+0	118	1728972882	/Users/chenkang/Desktop/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/34287012/obj/arm64-v8a/libprotocol_ffi.so	865f6a599775d5c0
+0	302	1728974490	/Users/chenkang/Desktop/snoringapp/build/protocol_ffi/intermediates/cxx/Debug/34287012/obj/arm64-v8a/libprotocol_ffi.so	865f6a599775d5c0

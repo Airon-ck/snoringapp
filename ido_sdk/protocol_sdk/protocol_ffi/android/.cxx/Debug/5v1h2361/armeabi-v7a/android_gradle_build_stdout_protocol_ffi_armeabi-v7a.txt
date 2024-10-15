@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/chenkang/Downloads/snoringapp/ido_sdk/protocol_sdk/protocol_ffi/android/.cxx/Debug/5v1h2361/armeabi-v7a'
+ninja: no work to do.
