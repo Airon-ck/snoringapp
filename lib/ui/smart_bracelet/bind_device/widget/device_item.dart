@@ -121,11 +121,11 @@ class DeviceItem extends StatelessWidget {
     if (itemData?.state == IDOBluetoothDeviceStateType.disconnected) {
       return '绑定';
     } else if (itemData?.state == IDOBluetoothDeviceStateType.connecting) {
-      return '绑定中';
+      return '连接中';
     } else if (itemData?.state == IDOBluetoothDeviceStateType.connected) {
-      return '已绑定';
+      return '已连接';
     } else if (itemData?.state == IDOBluetoothDeviceStateType.disconnecting) {
-      return '解绑中';
+      return '断开连接中';
     }
     return '绑定';
   }

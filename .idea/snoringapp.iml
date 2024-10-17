@@ -2,9 +2,39 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/alexa_net/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/alexa_net/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/alexa_net/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/get_storage_lite/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/get_storage_lite/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/get_storage_lite/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/ido_logger/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/ido_logger/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/ido_logger/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/worker_manager_lite/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/worker_manager_lite/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/plugins/worker_manager_lite/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_alexa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_alexa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_alexa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_lib/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_lib/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ido_sdk/protocol_sdk/protocol_lib/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib_sj/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib_sj/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib_sj/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

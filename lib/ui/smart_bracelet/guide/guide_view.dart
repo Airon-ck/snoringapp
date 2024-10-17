@@ -1,8 +1,12 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:lib_sj/util/loading_util.dart';
 import 'package:lib_sj/widget/my_text.dart';
 import 'package:lib_sj/widget/sj_image_view.dart';
 import 'package:snoring_app/common/space.dart';
+import 'package:snoring_app/generated/generated_utils.dart';
 import 'package:snoring_app/widget/appbar/c_app_bar.dart';
 import 'package:snoring_app/widget/smart_button.dart';
 import 'guide_logic.dart';
@@ -28,9 +32,28 @@ class _GuidePageState extends State<GuidePage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Colors.transparent,
-      body: _buildBodyViewV2(),
+    return WillPopScope(
+      onWillPop: () {
+        if (logic.time == 0) {
+          logic.time = DateTime.now().millisecondsSinceEpoch;
+          showInfo(LangCurrent.exit_app);
+          return Future.value(false);
+        } else {
+          if (DateTime.now().millisecondsSinceEpoch - logic.time < 2 * 1000) {
+            logic.time = 0;
+            exit(0);
+            return Future.value(true);
+          } else {
+            logic.time = DateTime.now().millisecondsSinceEpoch;
+            showInfo(LangCurrent.exit_app);
+          }
+        }
+        return Future.value(false);
+      },
+      child: Scaffold(
+        backgroundColor: Colors.transparent,
+        body: _buildBodyViewV2(),
+      ),
     );
   }
 
